@@ -1,4 +1,9 @@
 *.class
+.classpath
+.project
+.settings/
+bin/
+.swp
 
 # Package Files #
 *.jar
